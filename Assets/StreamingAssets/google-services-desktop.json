@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "969064489163",
+    "project_id": "cat-n-dog",
+    "storage_bucket": "cat-n-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969064489163:android:bb649e668f64b68216bb4e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CatNDog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969064489163-tvo6uruvgf0peosea6c2algl2k2rlhsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQB_dVTBy91CL301QphYFyMFZo_cNTzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969064489163-tvo6uruvgf0peosea6c2algl2k2rlhsh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969064489163-pos6ec805iatnvlb2hmqvutnbnak0h86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catndog.ermi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

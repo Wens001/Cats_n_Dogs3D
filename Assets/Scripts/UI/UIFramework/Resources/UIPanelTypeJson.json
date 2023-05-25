@@ -1,0 +1,23 @@
+{
+	"panelInfoList":
+	[
+		{ "panelType" : "GamePlayPanel", "path" : "UI/GamePlayPanel" },
+		{ "panelType" : "GameWinPanel",  "path" : "UI/GameWinPanel"  },
+		{ "panelType" : "GameLosePanel",  "path" : "UI/GameLosePanel"  },
+		{ "panelType" : "DebugSettingPanel",  "path" : "UI/DebugSettingPanel"  },
+		{ "panelType" : "DoubleHandGuidPanel",  "path" : "UI/DoubleHandGuidPanel"  },
+		{ "panelType" : "LuckySkinPanel",  "path" : "UI/LuckySkinPanel"  },
+		{ "panelType" : "SettingPanel",  "path" : "UI/SettingPanel"  },
+		{ "panelType" : "SkinShopPanel",  "path" : "UI/SkinShopPanel"  },
+		{ "panelType" : "RatePanel",  "path": "UI/RatePanel"},
+		{ "panelType" : "GetGiftPanel",  "path": "UI/GetGiftPanel"},
+		{ "panelType" : "BonusOverPanel", "path": "UI/BonusOverPanel"},
+		{	"panelType" : "IAPShopPanel",		"path": "UI/IAPShopPanel"	},
+		{ "panelType" : "LuckyShopPanel","path": "UI/LuckyShopPanel"},
+		{ "panelType": "GetSeedPanel", "path": "UI/GetSeedPanel" },
+		{ "panelType": "FarmPanel", "path": "UI/FarmPanel" },
+		{ "panelType": "HarvestHintPanel", "path": "UI/HarvestHintPanel" },
+		{ "panelType": "EnterBonusLvPanel", "path": "UI/EnterBonusLvPanel" }
+
+	]
+}

@@ -1,0 +1,14 @@
+Water shader.
+
+Shader properties:
+
+Metallic: Change the metalnes value.
+Smoothness: Change the smoothness value.
+BaseColor: Choose the base color
+RipplesColor: Choose the color of the ripples.
+RippleSpeed: Change the speed of ripples moving.
+RippleDissolve: Change the speed of ripples dissolving.
+NormalStrength: Change the amount of normal force here.
+NoiseStrength: Noise texture is chanelled to give normal value to material. Change the strength here.
+NoiseOffset: You can change the movement of the noise texture.
+NoiseTiling: Scale or change the tiling of the noise.

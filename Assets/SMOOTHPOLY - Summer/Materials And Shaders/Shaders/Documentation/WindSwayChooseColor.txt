@@ -1,0 +1,11 @@
+This shader works by moving objects vertices from UVs. It moves vertices along X-axes.
+
+
+Shader properties:
+
+Color: You can manually set color of the object.
+Wind Movement: Only X axes is affected. You can change the speed/amount of wind movement.
+Wind density: You can change the wind density to change different parts to move more locally or to move as unit.
+Wind Strength: Tweak this value to more heavily move the grass.
+Metallic: This controls shaders metallic value.
+Smoothness: Control smoothness

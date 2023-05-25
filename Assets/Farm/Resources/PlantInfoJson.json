@@ -1,0 +1,9 @@
+{
+	"plantInfoList":
+	[
+		{"id":0,"name":"NULL","buyCost":0,"growTime":0,"sellCost":0},
+		{"id":1,"name":"Pumpkin","buyCost":50,"growTime":300,"sellCost":200},
+		{"id":2,"name":"Corn","buyCost":150,"growTime":1800,"sellCost":500},
+		{"id":3,"name":"Apple","buyCost":0,"growTime":900,"sellCost":250}
+	]
+}

@@ -1,0 +1,12 @@
+Water Fall shader.
+
+
+Shader properties:
+
+BaseColor: Choose the base color.
+RipplesColor: Choose the color of the ripples.
+Smoothness: Smoothness value.
+RipplesSpeed: Change the speed of the ripples.
+RipplesScale: Change the scale of the ripples.
+OffsetSpeed: Change the amount of movement of the ripples.
+Tiling: Change the tiling.

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{2CA73EAC-CDDF-E5A8-58F4-7A60DFC8A527}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameControl/SDKManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameControl/GameSetting.cs" Line="19" Column="46" />
+      <File FileName="Assets/Scripts/SpecialLevel/DirtLevel/DirtCleanCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameControl/SDKManager.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/GameControl/GameControl.cs" Line="62" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatNDog" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameControl" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AFPSCounter.Editor PreferredExecutionTarget="2b41e79b-1a31-482a-bad5-2507e0fcc8a6" />
+  <DisabledProjects>
+    <String>rotorz.unity3d-utils.editor.csproj</String>
+    <String>rotorz.unity3d-reorderable-list.editor.csproj</String>
+    <String>rotorz.unity3d-reorderable-list.csproj</String>
+    <String>rotorz.unity3d-package-utils.editor.csproj</String>
+    <String>rotorz.dotnet-type-utils.csproj</String>
+    <String>rotorz.dotnet-exception-utils.csproj</String>
+    <String>Obi.Editor.csproj</String>
+    <String>Obi.csproj</String>
+    <String>NavMeshComponentsExamplesEditor.csproj</String>
+    <String>NavMeshComponentsExamples.csproj</String>
+    <String>NavMeshComponentsEditor.csproj</String>
+    <String>NavMeshComponents.csproj</String>
+    <String>IngameDebugConsole.Runtime.csproj</String>
+    <String>Assembly-CSharp.csproj</String>
+    <String>Assembly-CSharp-firstpass.csproj</String>
+    <String>Assembly-CSharp-Editor.csproj</String>
+    <String>Assembly-CSharp-Editor-firstpass.csproj</String>
+    <String>AFPSCounter.Runtime.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
